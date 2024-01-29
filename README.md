@@ -5,10 +5,7 @@ In College fest, Students want to take registrations for a Debate event and want
 Sample Table: 
 
 Student Id	FirstName	LastName	Course	Country
-1	Suresh	Reddy	B.Tech	India
-2	Murali	Mohan	B.Arch	Canada
-3	Daniel	Denson	B.Tech	New Zealand
-4	Tanya	Gupta	B.Com	USA
+1	Ramachandran Swaminathan	B.Tech	India
 
 Create a Dynamic web project and make sure that the following operations can be performed.
 
